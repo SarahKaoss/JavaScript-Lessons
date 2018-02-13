@@ -3,7 +3,7 @@
 # Course Outlines
 
 Note: This repo is just for me to keep track of all my lessons on YouTube, you can ignore this. 
-...
+..
 
 ## Basic Concepts
 
